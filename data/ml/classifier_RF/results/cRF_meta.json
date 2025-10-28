@@ -1,0 +1,145 @@
+{
+  "dataset_path": "/home/vpalacio/Documents/repos/ferronem/data/full_dataset.csv",
+  "timestamp": "2025-09-30T10:01:26.610412",
+  "sklearn_version": "1.7.1",
+  "n_samples": 236,
+  "class_counts_phase": {},
+  "class_counts_transition_type": {},
+  "FAMILY_TO_COLS": {
+    "dipole_prop": [
+      "dipole_Boltzmann_average"
+    ],
+    "sigma_profile": [
+      "sigma_boltzmann_abs_mean",
+      "sigma_boltzmann_abs_std",
+      "sigma_boltzmann_abs_skewness",
+      "sigma_boltzmann_abs_max_val",
+      "sigma_boltzmann_abs_p95",
+      "sigma_boltzmann_abs_peak_to_mean",
+      "sigma_boltzmann_pos_mean",
+      "sigma_boltzmann_pos_std",
+      "sigma_boltzmann_pos_skewness",
+      "sigma_boltzmann_shape_mean",
+      "sigma_boltzmann_shape_std",
+      "sigma_boltzmann_shape_skewness"
+    ],
+    "graphmol_conf0": [
+      "spectrum_conf0_boltzmann_abs_mean",
+      "spectrum_conf0_boltzmann_abs_std",
+      "spectrum_conf0_boltzmann_abs_skewness",
+      "spectrum_conf0_boltzmann_abs_max_val",
+      "spectrum_conf0_boltzmann_abs_p95",
+      "spectrum_conf0_boltzmann_abs_peak_to_mean",
+      "spectrum_conf0_boltzmann_pos_mean",
+      "spectrum_conf0_boltzmann_pos_std",
+      "spectrum_conf0_boltzmann_pos_skewness",
+      "spectrum_conf0_boltzmann_shape_mean",
+      "spectrum_conf0_boltzmann_shape_std",
+      "spectrum_conf0_boltzmann_shape_skewness"
+    ],
+    "graphmol_boltzmann": [
+      "spectrum_boltzmann_abs_mean",
+      "spectrum_boltzmann_abs_std",
+      "spectrum_boltzmann_abs_skewness",
+      "spectrum_boltzmann_abs_max_val",
+      "spectrum_boltzmann_abs_p95",
+      "spectrum_boltzmann_abs_peak_to_mean",
+      "spectrum_boltzmann_pos_mean",
+      "spectrum_boltzmann_pos_std",
+      "spectrum_boltzmann_pos_skewness",
+      "spectrum_boltzmann_shape_mean",
+      "spectrum_boltzmann_shape_std",
+      "spectrum_boltzmann_shape_skewness"
+    ],
+    "graphmol_dipole": [  
+      "dipole_Boltzmann_average",
+      "spectrum_boltzmann_abs_mean",
+      "spectrum_boltzmann_abs_std",
+      "spectrum_boltzmann_abs_skewness",
+      "spectrum_boltzmann_abs_max_val",
+      "spectrum_boltzmann_abs_p95",
+      "spectrum_boltzmann_abs_peak_to_mean",
+      "spectrum_boltzmann_pos_mean",
+      "spectrum_boltzmann_pos_std",
+      "spectrum_boltzmann_pos_skewness",
+      "spectrum_boltzmann_shape_mean",
+      "spectrum_boltzmann_shape_std",
+      "spectrum_boltzmann_shape_skewness"
+    ]
+  },
+  "cv_config": {
+    "n_splits": 5,
+    "shuffle": true,
+    "random_state": 42
+  },
+  "n_perm": 20,
+  "n_boot": 200,
+  "families_kept_n_features": {
+    "dipole_prop": 1,
+    "sigma_profile": 6,
+    "graphmol_conf0": 6,
+    "graphmol_boltzmann": 12,
+    "graphmol_dipole": 13
+  },
+  "families_dropped_columns": {
+    "dipole_prop": [],
+    "sigma_profile": [],
+    "graphmol_conf0": [],
+    "graphmol_boltzmann": [],
+    "graphmol_dipole": []
+  },
+  "family_variance_thresholds": {
+    "dipole_prop": 0.1,
+    "sigma_profile": 1e-06,
+    "graphmol_boltzmann": 1e-06,
+    "graphmol_conf0": 1e-06,
+    "graphmol_dipole": 1e-06
+  },
+  "pipeline": {
+    "binary_pipeline": {
+      "steps": [
+        {
+          "name": "imputer",
+          "class": "SimpleImputer",
+          "module": "sklearn.impute._base",
+          "parameters": {
+            "add_indicator": false,
+            "copy": true,
+            "fill_value": null,
+            "keep_empty_features": false,
+            "missing_values": NaN,
+            "strategy": "median"
+          }
+        },
+        {
+          "name": "vt",
+          "class": "VarianceThreshold",
+          "module": "sklearn.feature_selection._variance_threshold",
+          "parameters": {
+            "threshold": 1e-06
+          }
+        },
+        {
+          "name": "clf",
+          "class": "RFWithOOBEarlyStop",
+          "module": "__main__",
+          "parameters": {
+            "max_estimators": 1600,
+            "patience": 2,
+            "start_estimators": 300,
+            "step_estimators": 200,
+            "tol": 0.001,
+            "verbose": 0
+          }
+        }
+      ],
+      "description": "Random Forest with balanced subsample class weights"
+    },
+    "multiclass_estimator": {
+      "class": "OneVsRestClassifier",
+      "module": "sklearn.multiclass",
+      "n_jobs": -1
+    },
+    "description": "One-vs-Rest classifier using Random Forest for multiclass classification"
+  }
+}

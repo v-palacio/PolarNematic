@@ -1,0 +1,237 @@
+Name,Phase,Transition type,transition_temp,SMILES,Refs
+PR07117,N,2,51.0,CCCCCc1ccc(-c2ccc(C#N)cc2F)cc1,10.1021/cm1011058
+06121KW,N,2,16.0,N#Cc1ccc(-c2ccc(CCCF)cc2)cc1,10.1080/02678292.2019.1616228
+06129KW,N,2,36.0,N#Cc1ccc(-c2ccc(CCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+06128KW,N,2,28.0,N#Cc1ccc(-c2ccc(CCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+06115KW,N,2,32.0,N#Cc1ccc(-c2ccc(CCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+06119KW,N,2,35.0,N#Cc1ccc(-c2ccc(CCCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+06120KW,N,2,19.0,N#Cc1ccc(-c2ccc(CCCCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+07007KW,N,2,44.0,N#Cc1ccc(-c2ccc(CCCCCCCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+MJ01056,N,2,105.0,N#Cc1ccc(-c2ccc(CCCO)cc2)cc1,10.1080/02678292.2018.1502373
+MJ01064,N,2,72.0,N#Cc1ccc(-c2ccc(CCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+MJ01071,N,2,84.0,N#Cc1ccc(-c2ccc(CCCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+MJ01077,N,2,68.0,N#Cc1ccc(-c2ccc(CCCCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+MJ01073,N,2,78.0,N#Cc1ccc(-c2ccc(CCCCCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+MJ01075,N,2,69.0,N#Cc1ccc(-c2ccc(CCCCCCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+MJ01066,N,2,73.0,N#Cc1ccc(-c2ccc(CCCCCCCCCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+MJ01041,N,2,132.0,N#Cc1ccc(-c2ccc(C#CCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+RT08062,N,2,88.0,N#Cc1ccc(-c2ccc(C#CCCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+RT08050,N,2,91.0,N#Cc1ccc(-c2ccc(C#CCCCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+RT08049,N,2,77.0,N#Cc1ccc(-c2ccc(C#CCCCCCCO)cc2)cc1,10.1080/02678292.2018.1502373
+07031KW,N,2,35.0,N#CCCCCCCc1ccc(-c2ccc(C#N)cc2)cc1,10.1080/02678292.2019.1662116
+PR10004,N,2,60.5,N#Cc1ccc(-c2ccc(OCCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+01031MR,N,2,51.7,N#Cc1ccc(-c2ccc(OCCCCCc3c(F)c(F)c(F)c(F)c3F)cc2)cc1,10.1080/02678292.2020.1810792
+08141KW,N,2,40.9,N#Cc1ccc(-c2ccc(CCOc3c(F)c(F)cc(F)c3F)cc2)cc1,10.1080/02678292.2020.1810792
+PR09089,N,2,53.0,N#Cc1ccc(-c2ccc(OCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+06107KW,N,2,67.0,N#Cc1ccc(-c2ccc(OCCCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+06101KW,N,2,70.0,N#Cc1ccc(-c2ccc(OCCCCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+06100KW,N,2,67.0,N#Cc1ccc(-c2ccc(OCCCCCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+07094KW,N,2,67.0,N#Cc1ccc(-c2ccc(OCCCCCCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+07088KW,N,2,68.7,N#Cc1ccc(-c2ccc(OCCCCCCCCCCCF)cc2)cc1,10.1080/02678292.2019.1616228
+07099KW,N,2,68.2,N#CCCCCCCCOc1ccc(-c2ccc(C#N)cc2)cc1,10.1080/02678292.2019.1616228
+AF01009,N,2,70.5,N#Cc1ccc(-c2ccc(OCCF)cc2)cc1,10.1080/02678292.2019.1616228
+RT09068,N,2,79.0,N#CCCCOc1ccc(-c2ccc(C#N)cc2)cc1,10.1080/02678292.2019.1662116
+06131KW,N,2,61.2,N#CCCCCOc1ccc(-c2ccc(C#N)cc2)cc1,10.1080/02678292.2019.1662116
+07004KW,N,2,75.6,N#CCCCCCOc1ccc(-c2ccc(C#N)cc2)cc1,10.1080/02678292.2019.1662116
+07056KW,N,2,47.7,N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)c(F)c(F)c3F)cc2)cc1,10.1080/02678292.2020.1810792
+07080KW,N,2,62.9,N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)c(C#N)c(F)c3F)cc2)cc1,10.1080/02678292.2020.1810792
+07129KW,N,2,92.7,N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)cc(F)c3F)cc2)cc1,10.1080/02678292.2020.1810792
+08116KW,N,2,73.0,N#Cc1ccc(-c2ccc(OCCCCCCO)c(F)c2)cc1,10.1080/02678292.2020.1810792
+08117KW,N,2,62.96,N#Cc1ccc(-c2ccc(OCCCCCCO)cc2F)cc1,10.1080/02678292.2020.1810792
+08118KW,N,2,17.6,N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)c(F)c(F)c3F)cc2)cc1F,10.1080/02678292.2020.1810792
+08119KW,N,2,34.26,N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)c(F)c(F)c3F)c(F)c2)cc1,10.1080/02678292.2020.1810792
+08123KW,N,2,20.92,N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)c(F)c(F)c3F)cc2F)cc1,10.1080/02678292.2020.1810792
+08125KW,N,2,30.23,N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)cc(F)c3F)cc2)cc1F,10.1080/02678292.2020.1810792
+08128KW,N,2,93.0,C=Cc1c(F)c(F)c(OCCCCCCOc2ccc(-c3ccc(C#N)c(F)c3)cc2)c(F)c1F,10.1080/02678292.2020.1810792
+08131KW,N,2,68.23,C=Cc1c(F)c(F)c(OCCCCCCOc2ccc(-c3ccc(C#N)cc3)cc2F)c(F)c1F,10.1080/02678292.2020.1810792
+09079KW,N,2,98.8,N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)c(-c4ccccc4)c(F)c3F)cc2)cc1,10.1080/02678292.2020.1810792
+09078KW,N,2,155.6,N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)c(-c4ccc(C#N)cc4)c(F)c3F)cc2)cc1,10.1080/02678292.2020.1810792
+07038KW,N,2,269.0,N#CCCCCOc1ccc(-c2ccc(-c3ccc(C#N)cc3)cc2)cc1,10.1080/02678292.2019.1662116
+07036KW,N,2,263.0,N#CCCCCCOc1ccc(-c2ccc(-c3ccc(C#N)cc3)cc2)cc1,10.1080/02678292.2019.1662116
+07039KW,N,2,248.0,N#CCCCCCCOc1ccc(-c2ccc(-c3ccc(C#N)cc3)cc2)cc1,10.1080/02678292.2019.1662116
+07035KW,N,2,259.0,N#Cc1ccc(-c2ccc(-c3ccc(OCCCCCF)cc3)cc2)cc1,10.1080/02678292.2019.1616228
+Acid1,N,2,156.0,CCCOc1ccc(C(=O)O)cc1,Springer Handbook of Materials Data
+Acid2,N,2,161.0,CCCCOc1ccc(C(=O)O)cc1,Springer Handbook of Materials Data
+Acid3,N,2,151.4,CCCCCOc1ccc(C(=O)O)cc1,Springer Handbook of Materials Data
+Acid4,N,2,153.2,CCCCCCOc1ccc(C(=O)O)cc1,Springer Handbook of Materials Data
+Acid5-HOBA,N,2,147.5,CCCCCCCOc1ccc(C(=O)O)cc1,Springer Handbook of Materials Data
+5CB,N,2,35.3,CCCCCc1ccc(-c2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+6CB,N,2,30.1,CCCCCCc1ccc(-c2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+7CB,N,2,42.8,CCCCCCCc1ccc(-c2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+5OCB,N,2,68.0,CCCCCOc1ccc(-c2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+6OCB,N,2,75.5,CCCCCCOc1ccc(-c2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+7OCB,N,2,75.0,CCCCCCCOc1ccc(-c2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+PCH-3,N,2,45.9,CCC[C@H]1CC[C@@H](c2ccc(C#N)cc2)CC1,Springer Handbook of Materials Data
+PCH-4,N,2,41.0,CCCC[C@H]1CC[C@@H](c2ccc(C#N)cc2)CC1,Springer Handbook of Materials Data
+PCH-5,N,2,55.0,CCCCC[C@H]1CC[C@@H](c2ccc(C#N)cc2)CC1,Springer Handbook of Materials Data
+PCH-7,N,2,57.8,CCCCCCC[C@H]1CC[C@@H](c2ccc(C#N)cc2)CC1,Springer Handbook of Materials Data
+PCH-8,N,2,55.0,CCCCCCCC[C@H]1CC[C@@H](c2ccc(C#N)cc2)CC1,Springer Handbook of Materials Data
+Comp35,N,2,56.5,CCC[C@H]1CC[C@@H](c2ccc(C(=O)CC)cc2)CC1,Springer Handbook of Materials Data
+Comp36,N,2,68.8,CCCCC[C@H]1CC[C@@H](c2ccc(C(=O)CC)cc2)CC1,Springer Handbook of Materials Data
+CCH-7,N,2,83.0,CCCCCCC[C@H]1CC[C@@H]([C@H]2CC[C@@H](C#N)CC2)CC1,Springer Handbook of Materials Data
+RO-CM-4513,N,2,99.7,C/C=C/[C@H]1CC[C@@H]([C@H]2CC[C@@H](C#N)CC2)CC1,Springer Handbook of Materials Data
+CCH-301,N,2,17.0,CCC[C@H]1CC[C@@H]([C@H]2CC[C@@H](OC)CC2)CC1,Springer Handbook of Materials Data
+Comp49,N,2,43.5,CCCCCc1ccc(-c2ccc(C#N)cc2)nc1,Springer Handbook of Materials Data
+RO-CM-7037,N,2,51.0,CCCCCCCc1cnc(-c2ccc(C#N)cc2)nc1,Springer Handbook of Materials Data
+PYP605,N,2,53.0,CCCCCCc1cnc(-c2ccc(OCCCCC)cc2)nc1,Springer Handbook of Materials Data
+PYP606,N,2,60.8,CCCCCCOc1ccc(-c2ncc(CCCCCC)cn2)cc1,Springer Handbook of Materials Data
+PYP607,N,2,58.3,CCCCCCCOc1ccc(-c2ncc(CCCCCC)cn2)cc1,Springer Handbook of Materials Data
+PYP609,N,2,61.0,CCCCCCCCCOc1ccc(-c2ncc(CCCCCC)cn2)cc1,Springer Handbook of Materials Data
+MBBA,N,2,48.0,CCCCc1ccc(/N=C/c2ccc(OC)cc2)cc1,Springer Handbook of Materials Data
+RO-CM-1510,N,2,48.6,CCCCCCc1ccc(C(=O)Oc2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+RO-CM-1540,N,2,56.5,CCCCCCCc1ccc(C(=O)Oc2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+Comp89,N,2,55.0,CCCCCCCCc1ccc(C(=O)Oc2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+Comp92,N,2,82.0,CCCCCCCOc1ccc(C(=O)Oc2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+Comp93,N,2,88.0,CCCCCCCCOc1ccc(C(=O)Oc2ccc(C#N)cc2)cc1,Springer Handbook of Materials Data
+Comp97,N,2,89.5,CCCCCCOc1ccc(C(=O)Oc2ccc(OCCCC)cc2)cc1,Springer Handbook of Materials Data
+Comp113,N,2,189.0,CCCCCc1ccc(-c2ccc(-c3ccc(C#N)cc3)c(F)c2)cc1,Springer Handbook of Materials Data
+Comp114,N,2,131.0,CCCc1ccc(-c2ccc(-c3ccc(CCC)cc3)c(F)c2F)cc1,Springer Handbook of Materials Data
+BCH5,N,2,222.0,CCCCC[C@H]1CC[C@@H](c2ccc(-c3ccc(C#N)cc3)cc2)CC1,Springer Handbook of Materials Data
+BCH52F,N,2,117.0,CCCCC[C@H]1CC[C@@H](c2ccc(-c3ccc(CC)cc3)c(F)c2)CC1,Springer Handbook of Materials Data
+Comp119,N,2,175.4,CCCCC[C@H]1CC[C@@H](c2ccc(-c3ccc(C#N)c(F)c3)cc2)CC1,Springer Handbook of Materials Data
+Comp120,N,2,58.0,CCCCC[C@H]1CC[C@@H](c2ccc(-c3cc(F)c(F)c(F)c3)cc2)CC1,Springer Handbook of Materials Data
+I32,N,2,97.0,CCC[C@H]1CC[C@@H](CCc2ccc(-c3ccc(CC)cc3F)cc2)CC1,Springer Handbook of Materials Data
+I35,N,2,106.0,CCCCCc1ccc(-c2ccc(CC[C@H]3CC[C@@H](CCC)CC3)cc2)c(F)c1,Springer Handbook of Materials Data
+HP5N,N,2,226.0,CCCCC[C@H]1CC[C@@H](c2ccc(C(=O)Oc3ccc(C#N)cc3)cc2)CC1,Springer Handbook of Materials Data
+HP33,N,2,186.0,CCCc1ccc(OC(=O)c2ccc([C@H]3CC[C@@H](CCC)CC3)cc2)cc1,Springer Handbook of Materials Data
+HH33,N,2,158.0,CCC[C@H]1CC[C@@H](c2ccc(C(=O)OC3CCCCC3)cc2)CC1,Springer Handbook of Materials Data
+RM734,FN,4,133.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)cc2)c(OC)c1,Mandle 2017
+DIO,FN,5,68.8,CCCC1COC(c2cc(F)c(C(=O)Oc3ccc(F)c(-c4cc(F)c(F)c(F)c4)c3)c(F)c2)OC1,Kikuchi 2022
+EC1F,FN,5,144.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)cc2)c(F)c1,Cruickshank 2025
+EC2F,FN,5,166.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])c(F)c3)cc2)c(F)c1,Cruickshank 2025
+EC3F,FN,5,156.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(OC)c2)c(F)c1,Cruickshank 2025
+EC4F,N,2,153.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])c(F)c3)c(OC)c2)c(F)c1,Cruickshank 2025
+EC5F,FN,5,172.0,COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)cc2)c(F)c1,Cruickshank 2025
+EC6F,FN,5,187.0,COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])c(F)c3)cc2)c(F)c1,Cruickshank 2025
+EC7F,N,2,159.0,COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(OC)c2)c(F)c1,Cruickshank 2025
+EC8F,N,2,149.0,COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])c(F)c3)c(OC)c2)c(F)c1,Cruickshank 2025
+1O(M-O1)PEPEBNO2,FN,4,141.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc(-c4ccc([N+](=O)[O-])cc4)cc3)cc2)c(OC)c1,Cruickshank 2023
+1O(M-O2)PEPEBNO2,FN,4,128.0,CCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc(-c3ccc([N+](=O)[O-])cc3)cc2)cc1,Cruickshank 2023
+1O(M-O3)PEPEBNO2,FN,4,111.0,CCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc(-c3ccc([N+](=O)[O-])cc3)cc2)cc1,Cruickshank 2023
+1O(M-O4)PEPEBNO2,FN,4,95.0,CCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc(-c3ccc([N+](=O)[O-])cc3)cc2)cc1,Cruickshank 2023
+1O(M-O5)PEPEBNO2,FN,4,82.0,CCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc(-c3ccc([N+](=O)[O-])cc3)cc2)cc1,Cruickshank 2023
+1O(M-O6)PEPEBNO2,FN,4,70.0,CCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc(-c3ccc([N+](=O)[O-])cc3)cc2)cc1,Cruickshank 2023
+1O(M-O7)PEPEBNO2,FN,4,69.0,CCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc(-c3ccc([N+](=O)[O-])cc3)cc2)cc1,Cruickshank 2023
+1O(M-O8)PEPEBNO2,FN,4,69.0,CCCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc(-c3ccc([N+](=O)[O-])cc3)cc2)cc1,Cruickshank 2023
+1O(M-O9)PEPEBNO2,FN,4,65.0,CCCCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc(-c3ccc([N+](=O)[O-])cc3)cc2)cc1,Cruickshank 2023
+RM734-2,FN,4,142.5,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(F)c2)c(OC)c1,Brown 2021
+RM734-3,N,2,139.1,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])c(F)c3)c(F)c2)c(OC)c1,Brown 2021
+5-2,FN,4,106.0,CCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Cruickshank 2022
+5-3,FN,4,85.0,CCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Cruickshank 2022
+5-4,FN,4,65.0,CCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Cruickshank 2022
+5-5,FN,4,54.0,CCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Cruickshank 2022
+5-6,FN,4,44.0,CCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Cruickshank 2022
+5-7,FN,4,44.0,CCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Cruickshank 2022
+5-8,FN,4,44.0,CCCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Cruickshank 2022
+5-9,FN,4,42.0,CCCCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Cruickshank 2022
+6-1,FN,4,138.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])c(F)c3)cc2)c(OC)c1,Cruickshank 2022
+6-2,N,2,109.0,CCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)cc1,Cruickshank 2022
+6-3,N,2,88.0,CCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)cc1,Cruickshank 2022
+6-4,N,2,69.0,CCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)cc1,Cruickshank 2022
+6-5,N,2,56.0,CCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)cc1,Cruickshank 2022
+6-6,N,2,48.0,CCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)cc1,Cruickshank 2022
+6-7,N,2,47.0,CCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)cc1,Cruickshank 2022
+6-8,N,2,48.0,CCCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)cc1,Cruickshank 2022
+6-9,N,2,46.0,CCCCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)cc1,Cruickshank 2022
+UUQU-4-N,N,2,19.6,CCCCc1cc(F)c(-c2cc(F)c(C(F)(F)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,Manabe 2021
+3JK,FN,5,86.8,CCCC1COC(c2cc(F)c(C(=O)Oc3cc(F)c(C(F)(F)Oc4cc(F)c(F)c(F)c4)c(F)c3)c(F)c2)OC1,Karcz 2023
+NT3-1,FN,4,126.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(OC)c2)cc1,Tufaha 2023
+NT3-2,FN,4,104.0,CCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])cc1,Tufaha 2023
+NT3-3,FN,4,93.0,CCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])cc1,Tufaha 2023
+NT3-4,FN,4,76.0,CCCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])cc1,Tufaha 2023
+NT3-5,FN,4,61.0,CCCCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])cc1,Tufaha 2023
+NT3-6,FN,4,53.0,CCCCCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])cc1,Tufaha 2023
+NT3-7,FN,4,51.0,CCCCCCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])cc1,Tufaha 2023
+NT3F-1,FN,4,141.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])c(F)c3)c(OC)c2)cc1,Tufaha 2023
+NT3F-2,N,2,118.0,CCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])c(F)c1,Tufaha 2023
+NT3F-3,N,2,92.0,CCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])c(F)c1,Tufaha 2023
+NT3F-4,N,2,79.0,CCCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])c(F)c1,Tufaha 2023
+NT3F-5,N,2,68.0,CCCCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])c(F)c1,Tufaha 2023
+NT3F-6,N,2,58.0,CCCCCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])c(F)c1,Tufaha 2023
+NT3F-7,N,2,55.0,CCCCCCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])c(F)c1,Tufaha 2023
+Sulfur-2,FN,5,105.8,COc1cc(SC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Arakawa 2024
+Sulfur-7,FN,4,106.0,COc1ccc(C(=O)Oc2ccc(C(=O)Sc3ccc([N+](=O)[O-])cc3)cc2)c(OC)c1,Arakawa 2024
+Sulfur-12,N,2,122.0,CSc1ccccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Arakawa 2024
+Sulfur-13,N,2,96.0,COc1ccccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Arakawa 2024
+Sulfur-14,FN,5,162.2,Cc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)cc2)s1,Arakawa 2024
+Sulfur-15,FN,5,161.1,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)cc2)s1,Arakawa 2024
+Sulfur-18,N,2,162.4,COc1ccsc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1,Arakawa 2024
+Sulfur-19,N,2,210.5,O=C(Oc1ccc([N+](=O)[O-])cc1)c1ccc(OC(=O)c2cccs2)cc1,Arakawa 2024
+DIO-1,FN,5,69.0,CCCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(F)c(F)c4)c(F)c3)c(F)c2)OC1,Matsukizono 2024
+DIO-2,FN,5,65.0,CCCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(C#N)c(F)c4)c(F)c3)c(F)c2)OC1,Matsukizono 2024
+DIO-3,FN,5,96.0,CCCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c([N+](=O)[O-])c(F)c4)c(F)c3)c(F)c2)OC1,Matsukizono 2024
+EST-1,FN,4,89.0,CCCC(=O)Oc1cc(F)c(C(=O)Oc2ccc(-c3cc(F)c(F)c(F)c3)c(F)c2)c(F)c1,Matsukizono 2024
+EST-2,FN,5,98.0,CCCC(=O)Oc1cc(F)c(C(=O)Oc2ccc(-c3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,Matsukizono 2024
+EST-3,FN,5,104.0,CCCC(=O)Oc1cc(F)c(C(=O)Oc2ccc(-c3cc(F)c([N+](=O)[O-])c(F)c3)c(F)c2)c(F)c1,Matsukizono 2024
+EST-4,FN,4,116.0,CCCC(=O)Oc1ccc(C(=O)Oc2ccc(-c3cc(F)c(F)c(F)c3)c(F)c2)cc1,Matsukizono 2024
+3CN,FN,5,156.2,CCCc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)cc1,Mrukiewicz 2024
+S2,FN,4,122.0,COc1cc(SC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)cc1,Stepanafas 2024
+S3,FN,4,126.0,COc1cc(SC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)c(F)c1,Stepanafas 2024
+S4,N,2,129.0,COc1cc(SC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)c(F)c1,Stepanafas 2024
+S5,FN,4,121.0,COc1cc(SC)ccc1C(=O)Oc1cc(F)c(C(=O)Oc2ccc([N+](=O)[O-])cc2)c(F)c1,Stepanafas 2024
+S6,N,2,122.0,COc1cc(SC)ccc1C(=O)Oc1cc(F)c(C(=O)Oc2ccc([N+](=O)[O-])c(F)c2)c(F)c1,Stepanafas 2024
+S7,N,2,172.0,COc1cc(OC(=O)c2ccc(SC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])cc1,Stepanafas 2024
+S8,FN,4,124.0,COc1cc(OC(=O)c2ccc(SC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])c(F)c1,Stepanafas 2024
+O5,FN,4,132.0,COc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(F)c2)c(OC)c1,Stepanafas 2024
+O6,N,2,131.0,COc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3ccc([N+](=O)[O-])c(F)c3)c(F)c2)c(OC)c1,Stepanafas 2024
+2-2-Z2,N,2,133.5,CCCc1cc(F)c(C(=O)Oc2cc(F)c(-c3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,Stepanafas 2024
+2-2-Z1,N,2,145.4,CCCc1ccc(C(=O)Oc2cc(F)c(-c3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,Stepanafas 2024
+2-2-Z0,FN,4,133.2,CCCc1ccc(C(=O)Oc2cc(F)c(-c3cc(F)c(C#N)c(F)c3)c(F)c2)cc1,Stepanafas 2024
+1-2-Z2,FN,4,104.3,CCCc1cc(F)c(C(=O)Oc2cc(F)c(-c3ccc(C#N)c(F)c3)c(F)c2)c(F)c1,Stepanafas 2024
+1-2-Z1,FN,4,115.5,CCCc1ccc(C(=O)Oc2cc(F)c(-c3ccc(C#N)c(F)c3)c(F)c2)c(F)c1,Stepanafas 2024
+SCUT1a,FN,5,187.3,CCCC1COC(c2cc(F)c(-c3cc(F)c(-c4cc(F)c(C#N)c(F)c4)c(F)c3)c(F)c2)OC1,Song 2025
+SCUT1b,FN,5,37.3,CCCC1COC(c2cc(F)c(-c3ccc(-c4cc(F)c(C#N)c(F)c4)c(C(F)(F)F)c3)c(F)c2)OC1,Song 2025
+SCUT7a,FN,5,163.3,CCCC1COC(c2cc(F)c(-c3ccc(C#Cc4cc(F)c(C#N)c(F)c4)c(C(F)(F)F)c3)c(F)c2)OC1,Song 2025
+SCUT22b,FN,5,106.9,CCCOCc1cc(F)c(C#Cc2cc(F)c(-c3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,Song 2025
+SCUT22c,FN,5,80.5,CCCCOCc1cc(F)c(C#Cc2cc(F)c(-c3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,Song 2025
+SCUT22d,FN,5,60.0,CCCCCOCc1cc(F)c(C#Cc2cc(F)c(-c3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,Song 2025
+SCUT23a,N,2,113.0,CCCOCc1cc(F)c(-c2cc(F)c(C#Cc3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,Song 2025
+M-0-0,FN,4,152.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc(-c4cc(F)c(C(F)(F)Oc5cc(F)c(F)c(F)c5)c(F)c4)cc3)cc2)c(OC)c1,Strachan 2025
+M-0-1,FN,4,185.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc(-c4cc(F)c(C(F)(F)Oc5cc(F)c(F)c(F)c5)c(F)c4)c(F)c3)cc2)c(OC)c1,Strachan 2025
+M-0-2,FN,4,220.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(-c4cc(F)c(C(F)(F)Oc5cc(F)c(F)c(F)c5)c(F)c4)c(F)c3)cc2)c(OC)c1,Strachan 2025
+M-1-0,FN,5,156.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc(-c4ccc(C(F)(F)Oc5cc(F)c(F)c(F)c5)cc4)cc3)c(F)c2)c(OC)c1,Strachan 2025
+M-1-1,FN,4,191.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc(-c4ccc(C(F)(F)Oc5cc(F)c(F)c(F)c5)cc4)c(F)c3)c(F)c2)c(OC)c1,Strachan 2025
+M-1-2,FN,4,224.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(-c4ccc(C(F)(F)Oc5cc(F)c(F)c(F)c5)cc4)c(F)c3)c(F)c2)c(OC)c1,Strachan 2025
+M-2-0,FN,5,155.0,COc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3ccc(-c4ccc(C(F)(F)Oc5cc(F)c(F)c(F)c5)cc4)cc3)c(F)c2)c(OC)c1,Strachan 2025
+M-2-1,FN,4,185.0,COc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3ccc(-c4ccc(C(F)(F)Oc5cc(F)c(F)c(F)c5)cc4)c(F)c3)c(F)c2)c(OC)c1,Strachan 2025
+M-2-2,FN,4,214.0,COc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3cc(F)c(-c4ccc(C(F)(F)Oc5cc(F)c(F)c(F)c5)cc4)c(F)c3)c(F)c2)c(OC)c1,Strachan 2025
+Li-1a,N,2,87.0,CC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(F)c(F)c4)c([N+](=O)[O-])c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-1b,N,2,65.0,CCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(F)c(F)c4)c([N+](=O)[O-])c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-1c,FN,4,66.0,CCCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(F)c(F)c4)c([N+](=O)[O-])c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-2a,FN,4,119.0,CC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4ccc([N+](=O)[O-])cc4)c(F)c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-3a,N,2,120.0,CC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4ccc([N+](=O)[O-])cc4)c([N+](=O)[O-])c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-4a,N,2,226.0,CC1COC(c2cc(F)c(C(=O)Oc3cc(F)c(-c4cc(F)c(C#N)c(F)c4)c(F)c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-4b,FN,4,176.0,CCCC1COC(c2cc(F)c(C(=O)Oc3cc(F)c(-c4cc(F)c(C#N)c(F)c4)c(F)c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-4c,FN,4,104.0,CCCCCC1COC(c2cc(F)c(C(=O)Oc3cc(F)c(-c4cc(F)c(C#N)c(F)c4)c(F)c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-5a,N,2,91.0,CC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(C#N)c(F)c4)c(C(F)(F)F)c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-5b,FN,4,86.0,CCCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(C#N)c(F)c4)c(C(F)(F)F)c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-5c,FN,4,55.0,CCCCCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(C#N)c(F)c4)c(C(F)(F)F)c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-6b,FN,4,126.0,CCCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(C#N)c(F)c4)c([N+](=O)[O-])c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-7,FN,4,96.0,CCCC1COC(c2cc(F)c(C(F)(F)Oc3ccc(-c4cc(F)c(C#N)c(F)c4)cc3)c(F)c2)OC1,"Li, Giant 2022"
+Li-8,FN,4,138.0,CCCC1COC(c2cc(F)c(C(=O)Oc3cc(F)c(-c4cc(F)c(C(F)(F)F)c(F)c4)c(F)c3)c(F)c2)OC1,"Li, Giant 2022"
+Li-9a,N,2,111.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(C(F)(F)F)c1,"Li, Giant 2022"
+Li-9b,N,2,106.0,COc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(C(F)(F)F)c1,"Li, Giant 2022"
+Li-9c,FN,4,66.0,CCOc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(C(F)(F)F)c1,"Li, Giant 2022"
+Li-10a,N,2,101.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(C(F)(F)F)c2)c(F)c1,"Li, Giant 2022"
+Li-10b,N,2,120.0,COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(C(F)(F)F)c2)c(F)c1,"Li, Giant 2022"
+Li-11a,N,2,146.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(OC)c2)cc1,"Li, Giant 2022"
+Li-11b,N,2,159.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(OC)c2)c(F)c1,"Li, Giant 2022"
+Li-11c,N,2,161.0,COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(OC)c2)c(F)c1,"Li, Giant 2022"
+Li-12a,FN,4,143.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc(C#N)c(F)c3)c(F)c2)c(OC)c1,"Li, Giant 2022"
+Li-12b,N,2,151.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(OC)c1,"Li, Giant 2022"
+Li-12c,N,2,76.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(C)c(C#N)c(C)c3)c(F)c2)c(OC)c1,"Li, Giant 2022"
+Li-13a,N,2,229.0,N#Cc1c(F)cc(OC(=O)c2ccc(OC(=O)c3c(F)cccc3F)cc2F)cc1F,"Li, Giant 2022"
+Li-13b,N,2,200.0,COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,"Li, Giant 2022"
+Li-14,N,2,84.0,CCOc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(C(F)(F)F)c2)c(F)c1,"Li, Giant 2022"
+Li-15,FN,4,156.0,CCOc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc(C(=O)Oc4cc(F)c(C#N)c(F)c4)c(C(F)(F)F)c3)c(C(F)(F)F)c2)c(F)c1,"Li, Giant 2022"
+Li-16,FN,4,95.0,CCCCc1cc(F)c(-c2cc(F)c(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1,"Li, Giant 2022"
+Li-17a,N,2,107.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(C)c2)c(OC)c1,"Li, Giant 2022"
+Li-18,N,2,107.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(OC)c2)c(OC)c1,"Li, Giant 2022"
+Li-19,N,2,162.0,COc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(OC)c1,"Li, Giant 2022"
+Li-20,N,2,161.0,Cc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(F)c(F)c3)c(F)c2)c(F)c1,"Li, Giant 2022"
+Li-21,N,2,229.0,Cc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c([N+](=O)[O-])c(F)c3)c(F)c2)c(F)c1,"Li, Giant 2022"
+Li-22,N,2,99.0,COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(OC)c2)c(OC)c1,"Li, Giant 2022"
+Li-23,FN,4,71.0,COc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(F)c2)c(C(F)(F)F)c1,"Li, Giant 2022"
+Li-24,N,2,181.0,O=C(Oc1ccc([N+](=O)[O-])cc1)c1ccc(OC(=O)c2c(F)cccc2F)cc1F,"Li, Giant 2022"
+Li-25,FN,4,92.0,COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(C(F)(F)F)c2)c(F)c1,"Li, Giant 2022"
+Li-29,N,2,63.0,CCOc1cc(OC(=O)c2ccc(OC)cc2[N+](=O)[O-])ccc1C(=O)Oc1ccc([N+](=O)[O-])cc1,"Li, Giant 2022"
