@@ -7,6 +7,8 @@ Ferronematic liquid crystal dataset with MOL structures, DFT-derived descriptors
 ```
 data/
   datasets/                # CSVs (combined, descriptors)
+  dft_results/             # ORCA output data for the lowest energy conformer
+    idx_molname/           # Contains geometry.xyz, charges.csv, dft_results.csv
   ml/
     classifier_LR/         # results/plots
     classifier_RF/         # models/results/plots
