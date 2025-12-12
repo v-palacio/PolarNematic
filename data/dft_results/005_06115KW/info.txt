@@ -1,0 +1,5 @@
+Name: 06115KW
+SMILES: N#Cc1ccc(-c2ccc(CCCCCCF)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 32.0
+Ref doi: 10.1080/02678292.2019.1616228

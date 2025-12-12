@@ -1,0 +1,5 @@
+Name: Li-1b
+SMILES: CCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(F)c(F)c4)c([N+](=O)[O-])c3)c(F)c2)OC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 65.0
+Ref doi: Li, Giant 2022

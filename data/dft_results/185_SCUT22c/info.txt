@@ -1,0 +1,5 @@
+Name: SCUT22c
+SMILES: CCCCOCc1cc(F)c(C#Cc2cc(F)c(-c3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 80.5
+Ref doi: Song 2025

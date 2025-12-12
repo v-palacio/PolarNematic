@@ -1,0 +1,5 @@
+Name: Comp49
+SMILES: CCCCCc1ccc(-c2ccc(C#N)cc2)nc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 43.5
+Ref doi: Springer Handbook of Materials Data

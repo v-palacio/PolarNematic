@@ -1,0 +1,5 @@
+Name: 5CB
+SMILES: CCCCCc1ccc(-c2ccc(C#N)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 35.3
+Ref doi: Springer Handbook of Materials Data

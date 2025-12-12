@@ -1,0 +1,5 @@
+Name: Comp92
+SMILES: CCCCCCCOc1ccc(C(=O)Oc2ccc(C#N)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 82.0
+Ref doi: Springer Handbook of Materials Data

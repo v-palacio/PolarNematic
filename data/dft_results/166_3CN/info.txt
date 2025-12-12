@@ -1,0 +1,5 @@
+Name: 3CN
+SMILES: CCCc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)cc1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 156.2
+Ref doi: Mrukiewicz 2024

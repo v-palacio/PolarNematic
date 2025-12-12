@@ -1,0 +1,5 @@
+Name: Sulfur-13
+SMILES: COc1ccccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 96.0
+Ref doi: Arakawa 2024

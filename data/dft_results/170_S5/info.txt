@@ -1,0 +1,5 @@
+Name: S5
+SMILES: COc1cc(SC)ccc1C(=O)Oc1cc(F)c(C(=O)Oc2ccc([N+](=O)[O-])cc2)c(F)c1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 121.0
+Ref doi: Stepanafas 2024

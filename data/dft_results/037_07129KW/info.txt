@@ -1,0 +1,5 @@
+Name: 07129KW
+SMILES: N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)cc(F)c3F)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 92.7
+Ref doi: 10.1080/02678292.2020.1810792

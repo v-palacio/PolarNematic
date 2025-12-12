@@ -1,0 +1,5 @@
+Name: Comp119
+SMILES: CCCCC[C@H]1CC[C@@H](c2ccc(-c3ccc(C#N)c(F)c3)cc2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 175.4
+Ref doi: Springer Handbook of Materials Data

@@ -1,0 +1,5 @@
+Name: PYP609
+SMILES: CCCCCCCCCOc1ccc(-c2ncc(CCCCCC)cn2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 61.0
+Ref doi: Springer Handbook of Materials Data

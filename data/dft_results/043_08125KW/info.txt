@@ -1,0 +1,5 @@
+Name: 08125KW
+SMILES: N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)cc(F)c3F)cc2)cc1F
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 30.23
+Ref doi: 10.1080/02678292.2020.1810792

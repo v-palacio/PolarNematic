@@ -1,0 +1,5 @@
+Name: UUQU-4-N
+SMILES: CCCCc1cc(F)c(-c2cc(F)c(C(F)(F)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 19.6
+Ref doi: Manabe 2021

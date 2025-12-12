@@ -1,0 +1,5 @@
+Name: 08141KW
+SMILES: N#Cc1ccc(-c2ccc(CCOc3c(F)c(F)cc(F)c3F)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 40.9
+Ref doi: 10.1080/02678292.2020.1810792

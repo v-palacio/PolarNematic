@@ -1,0 +1,5 @@
+Name: 1-2-Z2
+SMILES: CCCc1cc(F)c(C(=O)Oc2cc(F)c(-c3ccc(C#N)c(F)c3)c(F)c2)c(F)c1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 104.3
+Ref doi: Stepanafas 2024

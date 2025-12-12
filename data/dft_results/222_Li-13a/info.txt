@@ -1,0 +1,5 @@
+Name: Li-13a
+SMILES: N#Cc1c(F)cc(OC(=O)c2ccc(OC(=O)c3c(F)cccc3F)cc2F)cc1F
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 229.0
+Ref doi: Li, Giant 2022

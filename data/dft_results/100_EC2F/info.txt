@@ -1,0 +1,5 @@
+Name: EC2F
+SMILES: COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])c(F)c3)cc2)c(F)c1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 166.0
+Ref doi: Cruickshank 2025

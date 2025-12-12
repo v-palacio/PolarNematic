@@ -1,0 +1,5 @@
+Name: Li-21
+SMILES: Cc1ccc(C(=O)Oc2ccc(C(=O)Oc3cc(F)c([N+](=O)[O-])c(F)c3)c(F)c2)c(F)c1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 229.0
+Ref doi: Li, Giant 2022

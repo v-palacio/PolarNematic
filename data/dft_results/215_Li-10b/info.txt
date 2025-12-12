@@ -1,0 +1,5 @@
+Name: Li-10b
+SMILES: COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(C(F)(F)F)c2)c(F)c1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 120.0
+Ref doi: Li, Giant 2022

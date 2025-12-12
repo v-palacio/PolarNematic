@@ -1,0 +1,5 @@
+Name: Sulfur-18
+SMILES: COc1ccsc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 162.4
+Ref doi: Arakawa 2024

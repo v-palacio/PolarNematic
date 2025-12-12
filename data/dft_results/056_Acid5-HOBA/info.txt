@@ -1,0 +1,5 @@
+Name: Acid5-HOBA
+SMILES: CCCCCCCOc1ccc(C(=O)O)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 147.5
+Ref doi: Springer Handbook of Materials Data

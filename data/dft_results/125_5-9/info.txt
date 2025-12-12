@@ -1,0 +1,5 @@
+Name: 5-9
+SMILES: CCCCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 42.0
+Ref doi: Cruickshank 2022

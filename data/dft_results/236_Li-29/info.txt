@@ -1,0 +1,5 @@
+Name: Li-29
+SMILES: CCOc1cc(OC(=O)c2ccc(OC)cc2[N+](=O)[O-])ccc1C(=O)Oc1ccc([N+](=O)[O-])cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 63.0
+Ref doi: Li, Giant 2022

@@ -1,0 +1,5 @@
+Name: Li-22
+SMILES: COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(OC)c2)c(OC)c1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 99.0
+Ref doi: Li, Giant 2022

@@ -1,0 +1,5 @@
+Name: MBBA
+SMILES: CCCCc1ccc(/N=C/c2ccc(OC)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 48.0
+Ref doi: Springer Handbook of Materials Data

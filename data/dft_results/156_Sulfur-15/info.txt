@@ -1,0 +1,5 @@
+Name: Sulfur-15
+SMILES: COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)cc2)s1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 161.1
+Ref doi: Arakawa 2024

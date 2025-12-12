@@ -1,0 +1,5 @@
+Name: PYP606
+SMILES: CCCCCCOc1ccc(-c2ncc(CCCCCC)cn2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 60.8
+Ref doi: Springer Handbook of Materials Data

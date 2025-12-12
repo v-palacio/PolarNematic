@@ -1,0 +1,5 @@
+Name: Acid1
+SMILES: CCCOc1ccc(C(=O)O)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 156.0
+Ref doi: Springer Handbook of Materials Data

@@ -1,0 +1,5 @@
+Name: Comp36
+SMILES: CCCCC[C@H]1CC[C@@H](c2ccc(C(=O)CC)cc2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 68.8
+Ref doi: Springer Handbook of Materials Data

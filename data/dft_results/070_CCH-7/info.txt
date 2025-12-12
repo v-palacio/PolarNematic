@@ -1,0 +1,5 @@
+Name: CCH-7
+SMILES: CCCCCCC[C@H]1CC[C@@H]([C@H]2CC[C@@H](C#N)CC2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 83.0
+Ref doi: Springer Handbook of Materials Data

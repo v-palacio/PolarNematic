@@ -1,0 +1,5 @@
+Name: Li-15
+SMILES: CCOc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc(C(=O)Oc4cc(F)c(C#N)c(F)c4)c(C(F)(F)F)c3)c(C(F)(F)F)c2)c(F)c1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 156.0
+Ref doi: Li, Giant 2022

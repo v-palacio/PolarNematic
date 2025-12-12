@@ -1,0 +1,5 @@
+Name: I32
+SMILES: CCC[C@H]1CC[C@@H](CCc2ccc(-c3ccc(CC)cc3F)cc2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 97.0
+Ref doi: Springer Handbook of Materials Data

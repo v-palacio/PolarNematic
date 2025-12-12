@@ -1,0 +1,5 @@
+Name: Li-24
+SMILES: O=C(Oc1ccc([N+](=O)[O-])cc1)c1ccc(OC(=O)c2c(F)cccc2F)cc1F
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 181.0
+Ref doi: Li, Giant 2022

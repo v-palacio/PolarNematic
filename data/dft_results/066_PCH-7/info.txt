@@ -1,0 +1,5 @@
+Name: PCH-7
+SMILES: CCCCCCC[C@H]1CC[C@@H](c2ccc(C#N)cc2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 57.8
+Ref doi: Springer Handbook of Materials Data

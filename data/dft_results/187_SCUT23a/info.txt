@@ -1,0 +1,5 @@
+Name: SCUT23a
+SMILES: CCCOCc1cc(F)c(-c2cc(F)c(C#Cc3cc(F)c(C#N)c(F)c3)c(F)c2)c(F)c1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 113.0
+Ref doi: Song 2025

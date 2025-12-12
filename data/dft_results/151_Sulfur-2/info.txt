@@ -1,0 +1,5 @@
+Name: Sulfur-2
+SMILES: COc1cc(SC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc([N+](=O)[O-])cc2)cc1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 105.8
+Ref doi: Arakawa 2024

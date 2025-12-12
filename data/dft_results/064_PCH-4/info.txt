@@ -1,0 +1,5 @@
+Name: PCH-4
+SMILES: CCCC[C@H]1CC[C@@H](c2ccc(C#N)cc2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 41.0
+Ref doi: Springer Handbook of Materials Data

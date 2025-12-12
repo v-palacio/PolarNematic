@@ -1,0 +1,5 @@
+Name: RT08049
+SMILES: N#Cc1ccc(-c2ccc(C#CCCCCCCO)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 77.0
+Ref doi: 10.1080/02678292.2018.1502373

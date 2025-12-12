@@ -1,0 +1,5 @@
+Name: HH33
+SMILES: CCC[C@H]1CC[C@@H](c2ccc(C(=O)OC3CCCCC3)cc2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 158.0
+Ref doi: Springer Handbook of Materials Data

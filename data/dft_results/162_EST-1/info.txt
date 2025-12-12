@@ -1,0 +1,5 @@
+Name: EST-1
+SMILES: CCCC(=O)Oc1cc(F)c(C(=O)Oc2ccc(-c3cc(F)c(F)c(F)c3)c(F)c2)c(F)c1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 89.0
+Ref doi: Matsukizono 2024

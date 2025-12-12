@@ -1,0 +1,5 @@
+Name: EC5F
+SMILES: COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)cc2)c(F)c1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 172.0
+Ref doi: Cruickshank 2025

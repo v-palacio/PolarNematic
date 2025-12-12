@@ -1,0 +1,5 @@
+Name: DIO-1
+SMILES: CCCC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4cc(F)c(F)c(F)c4)c(F)c3)c(F)c2)OC1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 69.0
+Ref doi: Matsukizono 2024

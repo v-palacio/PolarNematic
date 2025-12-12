@@ -1,0 +1,5 @@
+Name: Li-25
+SMILES: COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(C(F)(F)F)c2)c(F)c1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 92.0
+Ref doi: Li, Giant 2022

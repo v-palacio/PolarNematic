@@ -1,0 +1,5 @@
+Name: 3JK
+SMILES: CCCC1COC(c2cc(F)c(C(=O)Oc3cc(F)c(C(F)(F)Oc4cc(F)c(F)c(F)c4)c(F)c3)c(F)c2)OC1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 86.8
+Ref doi: Karcz 2023

@@ -1,0 +1,5 @@
+Name: 6CB
+SMILES: CCCCCCc1ccc(-c2ccc(C#N)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 30.1
+Ref doi: Springer Handbook of Materials Data

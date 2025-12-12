@@ -1,0 +1,5 @@
+Name: 07094KW
+SMILES: N#Cc1ccc(-c2ccc(OCCCCCCCCCCF)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 67.0
+Ref doi: 10.1080/02678292.2019.1616228

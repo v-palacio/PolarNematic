@@ -1,0 +1,5 @@
+Name: RO-CM-4513
+SMILES: C/C=C/[C@H]1CC[C@@H]([C@H]2CC[C@@H](C#N)CC2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 99.7
+Ref doi: Springer Handbook of Materials Data

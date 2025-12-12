@@ -1,0 +1,5 @@
+Name: I35
+SMILES: CCCCCc1ccc(-c2ccc(CC[C@H]3CC[C@@H](CCC)CC3)cc2)c(F)c1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 106.0
+Ref doi: Springer Handbook of Materials Data

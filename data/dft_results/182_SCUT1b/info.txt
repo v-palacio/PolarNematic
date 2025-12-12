@@ -1,0 +1,5 @@
+Name: SCUT1b
+SMILES: CCCC1COC(c2cc(F)c(-c3ccc(-c4cc(F)c(C#N)c(F)c4)c(C(F)(F)F)c3)c(F)c2)OC1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 37.3
+Ref doi: Song 2025

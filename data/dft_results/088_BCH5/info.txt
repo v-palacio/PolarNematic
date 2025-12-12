@@ -1,0 +1,5 @@
+Name: BCH5
+SMILES: CCCCC[C@H]1CC[C@@H](c2ccc(-c3ccc(C#N)cc3)cc2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 222.0
+Ref doi: Springer Handbook of Materials Data

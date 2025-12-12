@@ -1,0 +1,5 @@
+Name: Sulfur-7
+SMILES: COc1ccc(C(=O)Oc2ccc(C(=O)Sc3ccc([N+](=O)[O-])cc3)cc2)c(OC)c1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 106.0
+Ref doi: Arakawa 2024

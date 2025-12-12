@@ -1,0 +1,5 @@
+Name: NT3F-6
+SMILES: CCCCCCOc1cc(OC(=O)c2ccc(OC)cc2)ccc1C(=O)Oc1ccc([N+](=O)[O-])c(F)c1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 58.0
+Ref doi: Tufaha 2023

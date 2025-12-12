@@ -1,0 +1,5 @@
+Name: Sulfur-19
+SMILES: O=C(Oc1ccc([N+](=O)[O-])cc1)c1ccc(OC(=O)c2cccs2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 210.5
+Ref doi: Arakawa 2024

@@ -1,0 +1,5 @@
+Name: Li-2a
+SMILES: CC1COC(c2cc(F)c(C(=O)Oc3ccc(-c4ccc([N+](=O)[O-])cc4)c(F)c3)c(F)c2)OC1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 119.0
+Ref doi: Li, Giant 2022

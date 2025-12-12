@@ -1,0 +1,5 @@
+Name: 7OCB
+SMILES: CCCCCCCOc1ccc(-c2ccc(C#N)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 75.0
+Ref doi: Springer Handbook of Materials Data

@@ -1,0 +1,5 @@
+Name: AF01009
+SMILES: N#Cc1ccc(-c2ccc(OCCF)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 70.5
+Ref doi: 10.1080/02678292.2019.1616228

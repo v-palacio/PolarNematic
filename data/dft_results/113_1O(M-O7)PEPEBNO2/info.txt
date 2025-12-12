@@ -1,0 +1,5 @@
+Name: 1O(M-O7)PEPEBNO2
+SMILES: CCCCCCCOc1cc(OC)ccc1C(=O)Oc1ccc(C(=O)Oc2ccc(-c3ccc([N+](=O)[O-])cc3)cc2)cc1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 69.0
+Ref doi: Cruickshank 2023

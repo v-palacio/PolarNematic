@@ -1,0 +1,5 @@
+Name: EC7F
+SMILES: COc1cc(F)c(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)c(OC)c2)c(F)c1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 159.0
+Ref doi: Cruickshank 2025

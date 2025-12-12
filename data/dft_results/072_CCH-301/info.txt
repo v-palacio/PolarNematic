@@ -1,0 +1,5 @@
+Name: CCH-301
+SMILES: CCC[C@H]1CC[C@@H]([C@H]2CC[C@@H](OC)CC2)CC1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 17.0
+Ref doi: Springer Handbook of Materials Data

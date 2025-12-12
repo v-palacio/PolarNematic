@@ -1,0 +1,5 @@
+Name: 07080KW
+SMILES: N#Cc1ccc(-c2ccc(OCCCCCCOc3c(F)c(F)c(C#N)c(F)c3F)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 62.9
+Ref doi: 10.1080/02678292.2020.1810792

@@ -1,0 +1,5 @@
+Name: Comp114
+SMILES: CCCc1ccc(-c2ccc(-c3ccc(CCC)cc3)c(F)c2F)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 131.0
+Ref doi: Springer Handbook of Materials Data

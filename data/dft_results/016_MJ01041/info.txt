@@ -1,0 +1,5 @@
+Name: MJ01041
+SMILES: N#Cc1ccc(-c2ccc(C#CCCCO)cc2)cc1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 132.0
+Ref doi: 10.1080/02678292.2018.1502373

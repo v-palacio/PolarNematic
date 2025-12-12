@@ -1,0 +1,5 @@
+Name: M-0-1
+SMILES: COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc(-c4cc(F)c(C(F)(F)Oc5cc(F)c(F)c(F)c5)c(F)c4)c(F)c3)cc2)c(OC)c1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 185.0
+Ref doi: Strachan 2025

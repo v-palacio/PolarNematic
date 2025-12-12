@@ -1,0 +1,5 @@
+Name: Sulfur-14
+SMILES: Cc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)cc2)s1
+Phase Sequence: I-N-NF
+Transition (clearing) temperature, C: 162.2
+Ref doi: Arakawa 2024

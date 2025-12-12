@@ -1,0 +1,5 @@
+Name: RM734
+SMILES: COc1ccc(C(=O)Oc2ccc(C(=O)Oc3ccc([N+](=O)[O-])cc3)cc2)c(OC)c1
+Phase Sequence: I-NF
+Transition (clearing) temperature, C: 133.0
+Ref doi: Mandle 2017

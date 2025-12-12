@@ -1,0 +1,5 @@
+Name: Li-9b
+SMILES: COc1ccc(C(=O)Oc2cc(F)c(C(=O)Oc3cc(F)c(C#N)c(F)c3)c(F)c2)c(C(F)(F)F)c1
+Phase Sequence: I-N
+Transition (clearing) temperature, C: 106.0
+Ref doi: Li, Giant 2022
