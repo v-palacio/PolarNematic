@@ -1,0 +1,130 @@
+# Font family and style
+# font.family: sans-serif          # Main font family
+font.family: Arial
+font.style: normal                    # normal, italic, oblique
+font.variant: normal                  # normal, small-caps
+font.weight: normal                   # normal, bold, light, etc.
+font.stretch: normal                  # normal, condensed,
+
+# Font sizes for different elements
+font.size: 10                          # Default font size
+axes.labelsize: 10                     # Axis labels (xlabel, ylabel)
+axes.titlesize: 10                     # Axis titles
+xtick.labelsize: 8                    # X-axis tick labels
+ytick.labelsize: 8                    # Y-axis tick labels
+legend.fontsize: 8                    # Legend text
+
+# Layout
+figure.figsize: 3.33, 3                 # Default for single column
+figure.facecolor:  white
+figure.dpi: 300
+
+# Control subplot spacing
+figure.autolayout: False   # keep control in your code
+figure.constrained_layout.use: False
+figure.constrained_layout.h_pad: 0.05
+figure.constrained_layout.w_pad: 0.02
+figure.constrained_layout.hspace: 0.06
+figure.constrained_layout.wspace: 0.06
+figure.subplot.left: 0.15
+figure.subplot.right: 0.95
+figure.subplot.bottom: 0.15
+figure.subplot.top: 0.94
+figure.subplot.hspace: 0.25
+figure.subplot.wspace: 0.25
+
+# Save figure
+savefig.facecolor: white
+savefig.dpi: 400
+savefig.bbox: tight
+savefig.pad_inches: 0.02   # reduce whitespace around figure
+savefig.transparent: False
+
+# Axes
+axes.edgecolor: black
+axes.labelcolor: black
+axes.linewidth: 1.0
+axes.labelpad: 2.0
+axes.xmargin: 0.05
+axes.ymargin: 0.05
+legend.frameon: False                   # Box around legend
+
+# Ticks
+xtick.color: black
+xtick.direction: in
+xtick.alignment: center
+xaxis.labellocation: center
+xtick.labeltop: False
+xtick.major.bottom: True
+xtick.major.pad: 2.0
+xtick.major.size: 3
+xtick.major.top: True
+xtick.major.width: 0.8
+xtick.minor.bottom: False
+xtick.minor.pad: 2.0
+xtick.minor.size: 1.5
+xtick.minor.top: False
+xtick.minor.visible: False
+xtick.minor.width: 0.25
+xtick.top: True
+ytick.alignment: center
+yaxis.labellocation: center
+ytick.color: black
+ytick.direction: in
+ytick.labelleft: True
+ytick.labelright: False
+ytick.left: True
+ytick.major.left: True
+ytick.major.pad: 2.0
+ytick.major.right: True
+ytick.major.size: 3
+ytick.major.width: 0.8
+ytick.minor.left: False
+ytick.minor.pad: 2.0
+ytick.minor.right: False
+ytick.minor.size: 1.5
+ytick.minor.visible: False
+ytick.minor.width: 0.25
+ytick.right: True
+
+# Lines and Markers
+lines.linewidth: 1.5
+lines.markersize: 6
+lines.markeredgewidth: 0.8
+lines.markerfacecolor: white
+
+# =============================================================================
+# COLOR CYCLES - Choose one by uncommenting it and commenting out others
+# =============================================================================
+
+# Option 1: Default (Original)
+# axes.prop_cycle: cycler('color', ['003F5C','2F4B7C','665191','A05195','D45087','F95D6A','FF7C43','FFA600'])
+
+# Option 2: Vibrant (Paul Tol)
+# axes.prop_cycle : cycler('color', ['EE7733', '0077BB', '33BBEE', 'EE3377', 'CC3311', '009988', 'BBBBBB'])
+
+# Option 3: Muted (Paul Tol)
+# axes.prop_cycle : cycler('color', ['CC6677', '332288', 'DDCC77', '117733', '88CCEE', '882255', '44AA99', '999933', 'AA4499', 'DDDDDD'])
+
+# Option 4: Standard Colors
+# axes.prop_cycle : cycler('color', ['0C5DA5', '00B945', 'FF9500', 'FF2C00', '845B97', '474747', '9E9E9E'])
+
+# Option 5: Retro
+# axes.prop_cycle : cycler('color', ['4165C0', 'E770A2', '5AC3BE', '696969', 'F79A1E', 'BA7DCD'])
+
+# Option 6: IBM Colors
+# axes.prop_cycle : cycler('color', ['002D9C', '009D9A', '9F1853', '570408', 'A56EFF'])
+
+# Option 7: Classic (Currently Active)
+axes.prop_cycle : cycler('color', ['DB444B', '006BA2', '3EBCD2', '379A8B', 'EBB434', 'B4BA39', '9A607F', 'D1B07C'])
+
+# Option 8: Scientific (Colorblind-friendly)
+# axes.prop_cycle : cycler('color', ['1F77B4', 'FF7F0E', '2CA02C', 'D62728', '9467BD', '8C564B', 'E377C2', '7F7F7F'])
+
+# Option 9: High Contrast
+# axes.prop_cycle : cycler('color', ['000000', 'E69F00', '56B4E9', '009E73', 'F0E442', '0072B2', 'D55E00', 'CC79A7'])
+
+
+# LaTeX packages
+text.latex.preamble : \usepackage{amsmath} \usepackage{amssymb} \usepackage{sfmath}
+
