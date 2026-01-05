@@ -29,19 +29,29 @@ def draw_with_spheres(mol):
 def plot_molecular_signal(mol: Chem.Mol, charges: list | np.ndarray,
                           title: str = "Molecular Structure and Signal",
                           ) -> plt.Figure:
-    """Plot molecular structure (left) and graph signal (right) with charges."""
-    # Get adjacency matrix and coordinates
+    """Plot molecular structure (top) and graph signal (bottom) with charges.
+    
+    Parameters
+    ----------
+    mol : Chem.Mol
+        RDKit molecule object
+    charges : list | np.ndarray
+        Partial charges array
+    title : str
+        Figure title
+    """
+    # Get adjacency matrix and compute 2D coordinates
     adj_matrix = Chem.GetAdjacencyMatrix(mol).astype(float)
     AllChem.Compute2DCoords(mol)
     coords = np.array([[mol.GetConformer().GetAtomPosition(atom.GetIdx()).x,
                        mol.GetConformer().GetAtomPosition(atom.GetIdx()).y]
                       for atom in mol.GetAtoms()])
     
-    # Create figure with two subplots - let axes adjust to data
-    # First axis (molecular structure) occupies 1/4 of height, second axis 3/4
+    # Create figure with two subplots
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(4, 3), 
                                     gridspec_kw={'height_ratios': [1, 3], 'hspace': 0.15})
     
+    # Draw molecular structure
     # Get axis dimensions in pixels to size the molecular structure appropriately
     # Figure is 4 inches wide, first subplot is 1/4 of 3 inches = 0.75 inches tall
     # At 100 DPI: width ~400px, height ~75px (but we'll use a reasonable aspect ratio)
@@ -56,29 +66,25 @@ def plot_molecular_signal(mol: Chem.Mol, charges: list | np.ndarray,
     dpi_display = 600
     img_width = int(ax1_width_inches * dpi_display)
     img_height = int(ax1_height_inches * dpi_display)
-    
-    # Top subplot: molecular structure
-    # Use Cairo drawer for better control over bond thickness and font size
+
     d2d = Draw.MolDraw2DCairo(img_width, img_height)
     dopts = d2d.drawOptions()
-    dopts.addAtomIndices = False
-    dopts.bondLineWidth = 4.0  # Thick bonds
-    dopts.minFontSize = 20  # Larger minimum font
-    dopts.maxFontSize = 28  # Larger maximum font
-    dopts.baseFontSize = 1.2  # Larger base font
-    dopts.scalingFactor = 400  # Higher scaling for better resolution
+    dopts.addAtomIndices = True
+    dopts.bondLineWidth = 4.0
+    dopts.minFontSize = 20
+    dopts.maxFontSize = 28
+    dopts.baseFontSize = 1.2
+    dopts.scalingFactor = 400
     d2d.DrawMolecule(mol)
     d2d.FinishDrawing()
     
-    # Convert to PIL Image then numpy array for matplotlib
+    # Convert to image array
     img_data = d2d.GetDrawingText()
     img = Image.open(io.BytesIO(img_data))
     img_array = np.array(img)
     
-    # Display the image to fill the subplot
-    ax1.imshow(img_array, aspect='auto', origin='upper', extent=[0, img_width, img_height, 0])
-    ax1.set_xlim(0, img_width)
-    ax1.set_ylim(img_height, 0)
+    # Display molecular structure
+    ax1.imshow(img_array, aspect='auto', origin='upper')
     ax1.axis('off')
     
     # Bottom subplot: signal plot
@@ -103,8 +109,8 @@ def plot_molecular_signal(mol: Chem.Mol, charges: list | np.ndarray,
         ax2.annotate(atom.GetSymbol(), (coords[i, 0], coords[i, 1]),
                     xytext=(0, 0), textcoords='offset points', fontsize=6, fontweight='bold',
                     ha='center', va='center', color='#f9f9f9', zorder=4)
-    ax2.set_title('Graph and Partial Charges')
-    # Let axes auto-adjust to data with some padding
+    ax2.set_title('Graph and Partial Charges', pad=5)
+    # Set axes limits with padding
     x_range = coords[:, 0].max() - coords[:, 0].min()
     y_range = coords[:, 1].max() - coords[:, 1].min()
     padding = 0.25
@@ -112,8 +118,6 @@ def plot_molecular_signal(mol: Chem.Mol, charges: list | np.ndarray,
     x_max = coords[:, 0].max() + padding * x_range
     y_min = coords[:, 1].min() - padding * y_range
     y_max = coords[:, 1].max() + padding * y_range
-    
-    # Set limits first, then adjust for equal aspect
     ax2.set_xlim(x_min, x_max)
     ax2.set_ylim(y_min, y_max)
     ax2.set_aspect('equal', adjustable='box')
